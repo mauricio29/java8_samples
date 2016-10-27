@@ -1,2 +1,3 @@
-# java8samples
-Java 8 sample classes
+# java_samples
+
+Java sample project.
